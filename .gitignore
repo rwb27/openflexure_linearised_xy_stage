@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# STL files (I'm going to try only having these in releases)
+.stl
+!builds/*
