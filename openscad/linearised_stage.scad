@@ -127,6 +127,7 @@ union(){
             }
         }
         reflect([1,0,0]) translate([void_d,-999,sample_z+0.5]) cube([10,999,10]);
+        mechanism_void();
     }
     //motor mounts
     //translate([
